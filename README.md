@@ -1,4 +1,4 @@
-📸 Prints das Telas
+Prints das Telas
 
 ### Tela 1
 <img src="./prints/screen1.png" width="300" />
